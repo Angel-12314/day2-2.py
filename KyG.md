@@ -1,7 +1,7 @@
 # Project Title : day2-2 
 ### Batch NO : 16
 ### Mentor Name :Ms.T.Kamala 
-### Github Link : 
+### Github Link : github.com/Angel-12314/day2-2.py
 ### Team Details :
 | S.no  | Name  | Roll Number  | Email Id  |
 |-------|-------|--------------|-----------|
